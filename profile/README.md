@@ -1,19 +1,26 @@
 # ZIFRA Software
 
-**Automatizamos procesos, potenciamos resultados.**  
-Somos una empresa mexicana dedicada a crear soluciones de software que eliminan tareas repetitivas y hacen que los negocios trabajen de forma más inteligente.
+**Identificamos, optimizamos y digitalizamos flujos críticos de negocio.**  
+Somos una empresa mexicana que convierte cuellos de botella operativos en ventajas competitivas mediante software modular y claridad operativa aplicada.
 
 ---
 
 ## Nuestra misión
-Transformar procesos manuales en flujos digitales eficientes, accesibles y escalables para empresas de todos los tamaños.
+Generar impacto inmediato y medible en negocios identificando qué flujos están frenando su crecimiento y digitalizándolos sin fricción cultural.
 
 ---
 
 ## Qué hacemos
-- **Automatizaciones** → integración de sistemas, bots, flujos de trabajo.  
-- **Desarrollo de software** → APIs, paneles de control y herramientas web.  
-- **Consultoría tecnológica** → diseño de soluciones a medida.  
+- **Diagnóstico operativo** → identificamos en 45 minutos dónde pierdes dinero, clientes o tiempo.  
+- **Intervenciones digitales** → módulos ligeros que optimizan tus 4 flujos críticos (cliente, trabajo, información, dinero).  
+- **Software modular** → soluciones adaptables que crecen con tu negocio, no contra él.
+
+---
+
+## Nuestro método
+1. **Microdiagnóstico** → analizamos tus flujos críticos sin datos complejos  
+2. **Diseño de intervención** → priorizamos qué digitalizar para máximo impacto  
+3. **Implementación modular** → ejecutamos en semanas, no meses  
 
 ---
 
@@ -25,8 +32,7 @@ Transformar procesos manuales en flujos digitales eficientes, accesibles y escal
 ---
 
 ## Equipo
-- Frontend – [Karla Ramírez Mendoza](https://github.com/eKhars)  
-- Backend – [José Alberto Avendaño Argueta](https://github.com/betooxx-dev)
+- Desarrollador Fullstack – [José Alberto Avendaño Argueta](https://github.com/betooxx-dev)
 
 ---
 
